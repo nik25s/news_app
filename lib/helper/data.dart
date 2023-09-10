@@ -1,5 +1,6 @@
 import 'package:news_app/models/category_model.dart';
 
+// d7de7306e34c47c3929fb4c1e3386187
 List<CategoryModel> getCategories() {
   List<CategoryModel> myCategories = <CategoryModel>[];
   CategoryModel categoryModel = new CategoryModel();
